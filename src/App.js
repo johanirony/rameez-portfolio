@@ -10,10 +10,10 @@ function App() {
   return (
     <>
     <Routes>
-      <Route path='/' element={<Layout/>}>
+      <Route path='/rameez-portfolio' element={<Layout/>}>
         <Route index element={<Home/>}></Route>
-        <Route path='/about' element={<About/>}></Route>
-        <Route path='/contact' element={<Contact/>}></Route>
+        <Route path='/rameez-portfolio/about' element={<About/>}></Route>
+        <Route path='/rameez-portfolio/contact' element={<Contact/>}></Route>
       </Route>
     </Routes>
 
