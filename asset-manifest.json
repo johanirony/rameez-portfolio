@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rameez-portfolio/static/css/main.c68acd42.css",
-    "main.js": "/rameez-portfolio/static/js/main.d8d3a79e.js",
+    "main.js": "/rameez-portfolio/static/js/main.907e49d7.js",
     "static/js/787.67b99310.chunk.js": "/rameez-portfolio/static/js/787.67b99310.chunk.js",
     "static/media/helvetica-neu.ttf": "/rameez-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/rameez-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/rameez-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/rameez-portfolio/index.html",
     "main.c68acd42.css.map": "/rameez-portfolio/static/css/main.c68acd42.css.map",
-    "main.d8d3a79e.js.map": "/rameez-portfolio/static/js/main.d8d3a79e.js.map",
+    "main.907e49d7.js.map": "/rameez-portfolio/static/js/main.907e49d7.js.map",
     "787.67b99310.chunk.js.map": "/rameez-portfolio/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c68acd42.css",
-    "static/js/main.d8d3a79e.js"
+    "static/js/main.907e49d7.js"
   ]
 }
